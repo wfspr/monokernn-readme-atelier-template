@@ -12,7 +12,7 @@
   <img src="./atelier/languages.dd21002a.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.bb914260.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.91327d70.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/wfspr/ip-illustration&#95;custom"><img src="./atelier/repo-1.2e3fa2c1.svg" width="49%" alt="ip-illustration&#95;custom"/></a>
@@ -21,6 +21,6 @@
   <a href="https://github.com/wfspr/freellm&#95;custom"><img src="./atelier/repo-4.bfa5b0e5.svg" width="49%" alt="freellm&#95;custom"/></a>
 </p>
 
-<p align="center"><img src="./atelier/footer.7871797a.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.6376b0b8.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
